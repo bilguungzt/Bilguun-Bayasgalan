@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bilguun Bayasgalan</h1>
 <h3 align="center">Dynamic tech professional with experience in website and software development, project management, coding, and various software and programming languages.</h3>
-<a href="URL_REDIRECT" target="blank"><img align="right" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gifE" height="400" /></a>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilguungzt" alt="bilguungzt" /></a> </p>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" height="100" /></a>
+
 
 - 🔭 I’m currently working on **Food Ordering app**
 
