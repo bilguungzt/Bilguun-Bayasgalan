@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/imag...)](https://khushboogoel01.github.io)
+[![MasterHead](https://media-exp1.licdn.com/dms/imag...)](https://www.bilguun.tech)
 <h1 align="center">Hi 👋, I'm Bilguun Bayasgalan</h1>
 <h3 align="center">Dynamic tech professional with experience in website and software development, project management, coding, and various software and programming languages.</h3>
 
