@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bilguun Bayasgalan</h1>
 <h3 align="center">Dynamic tech professional with experience in website and software development, project management, coding, and various software and programming languages.</h3>
 
-<img align="right" alt"Coding" width="400" src="https://giphy.com/gifs/R03zWv5p1oNSQd91EP">
+
 - 🔭 I’m currently working on **Food Ordering app**
 
 - 🌱 I’m currently learning **React.js, Next.js**
