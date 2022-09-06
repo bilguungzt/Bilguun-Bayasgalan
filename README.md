@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bilguun@bilguun.tech**
 
-- 📄 Know about my experiences https://sfsu.box.com/s/n8oz18jmy3fjrevlu5h77eolfki74hrs
+- 📄 Know about my experiences (https://drive.google.com/file/d/1uDS-ZEXNojUE8pDfVbGndYJw1dmZl4Vf/view?usp=sharing)
 
 - ⚡ Fun fact **Love to scuba diving and hiking**
 
