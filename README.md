@@ -3,7 +3,7 @@
 <a href="URL_REDIRECT" target="blank"><img align="right" src="https://media.giphy.com/media/xbLZjyMNQqEpTKjkSm/giphy.gif" height="400" /></a>
 
 
-- 🔭 I’m currently working on **Food Ordering app**
+- 🔭 I’m currently working on **Grinding Leetcode**
 
 - 🌱 I’m currently learning **React.js, Next.js**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bilguun@bilguun.tech**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xKYFThrqMAqE114FsthkUeXQOzpbBfVV/view?usp=sharing](https://drive.google.com/file/d/1xKYFThrqMAqE114FsthkUeXQOzpbBfVV/view?usp=sharing)
+- 📄 Know about my experiences https://sfsu.box.com/s/n8oz18jmy3fjrevlu5h77eolfki74hrs
 
 - ⚡ Fun fact **Love to scuba diving and hiking**
 
