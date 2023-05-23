@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **Web 3.0 blockchain app**
 
-- 👨‍💻 All of my projects are available at [www.bilguun.tech](www.bilguun.tech)
+- 👨‍💻 All of my projects are available at [www.bilguun.me](www.bilguun.me)
 
-- 📫 How to reach me **bilguun@bilguun.tech**
+- 📫 How to reach me **bbayasgalan2@sfsu.edu**
 
 - 📄 Know about my experiences (https://drive.google.com/file/d/1uDS-ZEXNojUE8pDfVbGndYJw1dmZl4Vf/view?usp=sharing)
 
