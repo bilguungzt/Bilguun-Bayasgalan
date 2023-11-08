@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bbayasgalan2@sfsu.edu**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1uDS-ZEXNojUE8pDfVbGndYJw1dmZl4Vf/view?usp=sharing)
+- 📄 Know about my experiences ()
 
 - ⚡ Fun fact **Love to scuba diving and hiking**
 
