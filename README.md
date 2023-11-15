@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [www.bilguun.me](www.bilguun.me)
 
-- 📫 How to reach me **bbayasgalan2@sfsu.edu**
+- 📫 How to reach me **william8bay@gmail.com**
 
 - 📄 Know about my experiences ()
 
