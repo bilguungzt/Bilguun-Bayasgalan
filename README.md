@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm William Bay</h1>
+<h1 align="center">Hi 👋, I'm Bill Bay</h1>
 <h3 align="center">Dynamic tech professional with experience in website and software development, project management, coding, and various software and programming languages.</h3>
 <a href="URL_REDIRECT" target="blank"><img align="right" src="https://media.giphy.com/media/xbLZjyMNQqEpTKjkSm/giphy.gif" height="400" /></a>
 
