@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Grinding Leetcode**
 
-- 🌱 I’m currently learning **React.js, Next.js**
+- 🌱 I’m currently learning **React.js, Python**
 
 - 👯 I’m looking to collaborate on **Web 3.0 blockchain app**
 
-- 👨‍💻 All of my projects are available at [www.bilguun.me](www.bilguun.me)
+- 👨‍💻 All of my projects are available at [billtech.netlify.app](https://billtech.netlify.app/)
 
-- 📫 How to reach me **william8bay@gmail.com**
+- 📫 How to reach me **billbayasgalan@gmail.com**
 
 - 📄 Know about my experiences ()
 
